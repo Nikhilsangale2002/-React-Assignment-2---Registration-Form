@@ -17,9 +17,6 @@ function RegistrationForm() {
       return;
     }
 
-    // Here you can add further validation or send the registration data to a server
-
-    // For this example, we just display a success message
     setMessage('Registration successful!');
   };
 
